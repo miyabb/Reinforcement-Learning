@@ -1,5 +1,8 @@
 # Reinforcement-Learning
 
-強化学習・深層強化学習の実装
+- dqn_sample.ipynb 
+    pytorchのDeep Qlearningでcart-poleを実装
 
-
+- movie_cartpole_DQN.mp4
+    dqn_sampleの出力動画
+ 
